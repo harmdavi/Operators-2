@@ -2,7 +2,7 @@
 'RCET0265
 'Fall 2020
 'Operator2
-'Repo
+'https://github.com/harmdavi/Operators-2.git
 
 
 Module Operators1
