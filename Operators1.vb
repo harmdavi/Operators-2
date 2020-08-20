@@ -17,6 +17,34 @@ Module Operators1
         Console.ReadLine()
         Console.WriteLine(2 * 3)
         Console.ReadLine()
+
+        'concatenate stuff
+        'use with caution. 
+
+        Console.Write("2" + "2")
+        Console.ReadLine()
+
+        'use with caution. 
+
+        Console.Write("2" & "2")
+        Console.ReadLine()
+        'these are the same to the computer
+
+        Console.Write("Hello" & "," & "there")
+        Console.ReadLine()
+
+
+
+
+
+
+
+
+        '
+
+
+
+
     End Sub
 
 End Module
