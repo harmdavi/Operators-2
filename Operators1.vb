@@ -34,8 +34,19 @@ Module Operators1
         Console.ReadLine()
 
 
+        'comparison stuff
 
+        Console.Write(1 > 3)
+        Console.ReadLine()
 
+        Console.Write(1 < 3)
+        Console.ReadLine()
+
+        Console.Write(1 = 3)
+        Console.ReadLine()
+
+        Console.Write(1 <> 3)
+        Console.ReadLine()
 
 
 
